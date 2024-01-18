@@ -1,4 +1,4 @@
-The programme is executed using the _queueStatus_ stack. The stack (array) is filled in a loop with all existing combinations in the form of the structure {exp, res, idx}.
+The programm is executed using the _queueStatus_ stack. The stack (array) is filled in a loop with all existing combinations in the form of the structure {exp, res, idx}.
 _exp_ - the current state of the expression as a string ('98+7-65...')
 _res_ - the resulting sum for the expression exp
 _idx_ - index of the current last element in the string
